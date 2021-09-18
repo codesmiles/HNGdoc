@@ -1,5 +1,13 @@
 # End game by forfeiting an ongoing game
 
+## End-point
+
+```sh
+/api/v1/game/resign
+```
+
+![parameters](capture.PNG)
+
 This basically end game and choose the winner based on the user who forfeit the game against user that did not forfeit the game.
 
 ## Features
