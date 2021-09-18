@@ -44,7 +44,7 @@ Response header
 
 5. The 500 response is for an internal server error if theres no data to read as an internal server error
 
-Response header
+Response body
 
 ```sh
 {
